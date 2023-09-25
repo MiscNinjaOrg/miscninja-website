@@ -18,7 +18,7 @@ const Hero = () => {
                 Open-Source Redis Extension to Supercharge Your AI Workflow
                 </h1>
                 <p className="mb-12 text-base font-medium !leading-relaxed text-body-color dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
-                MiscNinja is free Redis extension for AI power-users, developers and businesses.
+                MiscNinja is a Free Redis extension for AI power-users, developers and businesses.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
