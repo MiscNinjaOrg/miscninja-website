@@ -44,7 +44,7 @@ const featuresData: Feature[] = [
     ),
     title: "Multi-Step Conversation Support",
     paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
+      "Where most other retrieval and storage systems for LLMs deal with single dialogues, MiscNinja can efficiently store and retrieve entire conversations, empowering your model with superior recollection.",
   },
   {
     id: 1,
@@ -59,7 +59,7 @@ const featuresData: Feature[] = [
     ),
     title: "Lightweight yet Performant",
     paragraph:
-      "MiscNinja is build on SQLite, a barebones C-based database intended to be as light as possible. Following SQLite's footsteps, MiscNinja is a minimal single-file header-only implementation, with rigorous speed and performance testing.",
+      "MiscNinja is built on SQLite, a barebones C-based database intended to be as light as possible. Following SQLite's footsteps, MiscNinja is a minimal single-file header-only implementation, with rigorous speed and performance testing.",
   },
   {
     id: 1,
@@ -74,7 +74,7 @@ const featuresData: Feature[] = [
     ),
     title: "Fully Customizable",
     paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
+      "MiscNinja is fully customizable, and we'll work with you to make sure your needs are fulfilled. MiscNinja's search and indexing capabilites are extensible and can be easily modified to accomodate new data types and tasks. Contact us and we'll figure something out.",
   },
   {
     id: 1,
@@ -89,7 +89,7 @@ const featuresData: Feature[] = [
     ),
     title: "Free and Open-Source",
     paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
+      "MiscNinja is Free and Open-Source, so you can have your cake and eat it too. Not only do you get the best of our world-class developers, you get the expertise of the smartest people on the planet - strangers on the internet.",
   },
 ];
 export default featuresData;

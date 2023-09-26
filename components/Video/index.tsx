@@ -13,8 +13,8 @@ const Video = () => {
     <section className="relative z-10 py-16 md:py-20 lg:py-28">
       <div className="container">
         <SectionTitle
-          title="We are ready to help"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          title="We are here to help"
+          paragraph="There are many database solutions out there for your AI needs, but only one for your AI wants. Contact us today to get ahead with MiscNinja."
           center
           mb="80px"
         />
