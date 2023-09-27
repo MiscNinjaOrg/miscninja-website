@@ -1,17 +1,16 @@
+import Pricing from "@/components/Pricing/index";
 import Breadcrumb from "@/components/Common/Breadcrumb";
-import Contact from "@/components/Contact";
 
-const ContactPage = () => {
+const PricingPage = () => {
   return (
     <>
       {/* <Breadcrumb
-        pageName="Contact Page"
+        pageName="About Page"
         description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
       /> */}
-
-      <Contact />
+      <Pricing/>
     </>
   );
 };
 
-export default ContactPage;
+export default PricingPage;
