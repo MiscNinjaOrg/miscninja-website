@@ -7,12 +7,12 @@ const menuData: Menu[] = [
     path: "/",
     newTab: false,
   },
-  {
-    id: 2,
-    title: "About",
-    path: "/about",
-    newTab: false,
-  },
+  // {
+  //   id: 2,
+  //   title: "About",
+  //   path: "/about",
+  //   newTab: false,
+  // },
   // {
   //   id: 33,
   //   title: "Blog",
@@ -22,15 +22,15 @@ const menuData: Menu[] = [
   {
     id: 3,
     title: "Contact",
-    path: "/contact",
+    path: "mailto:semwalnalin@gmail.com",
     newTab: false,
   },
-  {
-    id: 4,
-    title: "Pricing",
-    path: "/pricing",
-    newTab: false,
-  }, 
+  // {
+  //   id: 4,
+  //   title: "Pricing",
+  //   path: "/pricing",
+  //   newTab: false,
+  // }, 
   // {
   //   id: 4,
   //   title: "Pages",
